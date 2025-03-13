@@ -2,3 +2,5 @@
     Source: This dataset is commonly used for evaluating machine learning models in cybersecurity.
     Features: Various network traffic attributes used to detect attacks.
     Labels: Normal traffic vs. various attack types.
+
+The dataset used in this project is available at the official UCI repository: https://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html
